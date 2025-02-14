@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		BBBA39A42D5F876B00A677EC /* PBXContainerItemProxy */ = {
+		BB30F37D2D5F8863007041ED /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BBBA398B2D5F876A00A677EC /* Project object */;
+			containerPortal = BB30F3642D5F8862007041ED /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BBBA39922D5F876A00A677EC;
+			remoteGlobalIDString = BB30F36B2D5F8862007041ED;
 			remoteInfo = "binge-queuer";
 		};
-		BBBA39AE2D5F876B00A677EC /* PBXContainerItemProxy */ = {
+		BB30F3872D5F8863007041ED /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BBBA398B2D5F876A00A677EC /* Project object */;
+			containerPortal = BB30F3642D5F8862007041ED /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = BBBA39922D5F876A00A677EC;
+			remoteGlobalIDString = BB30F36B2D5F8862007041ED;
 			remoteInfo = "binge-queuer";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BBBA39932D5F876A00A677EC /* binge-queuer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "binge-queuer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BBBA39A32D5F876B00A677EC /* binge-queuerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "binge-queuerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BBBA39AD2D5F876B00A677EC /* binge-queuerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "binge-queuerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB30F36C2D5F8862007041ED /* binge-queuer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "binge-queuer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB30F37C2D5F8863007041ED /* binge-queuerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "binge-queuerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB30F3862D5F8863007041ED /* binge-queuerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "binge-queuerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		BBBA39952D5F876A00A677EC /* binge-queuer */ = {
+		BB30F36E2D5F8862007041ED /* binge-queuer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "binge-queuer";
 			sourceTree = "<group>";
 		};
-		BBBA39A62D5F876B00A677EC /* binge-queuerTests */ = {
+		BB30F37F2D5F8863007041ED /* binge-queuerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "binge-queuerTests";
 			sourceTree = "<group>";
 		};
-		BBBA39B02D5F876B00A677EC /* binge-queuerUITests */ = {
+		BB30F3892D5F8863007041ED /* binge-queuerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "binge-queuerUITests";
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BBBA39902D5F876A00A677EC /* Frameworks */ = {
+		BB30F3692D5F8862007041ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA39A02D5F876B00A677EC /* Frameworks */ = {
+		BB30F3792D5F8863007041ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA39AA2D5F876B00A677EC /* Frameworks */ = {
+		BB30F3832D5F8863007041ED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BBBA398A2D5F876A00A677EC = {
+		BB30F3632D5F8862007041ED = {
 			isa = PBXGroup;
 			children = (
-				BBBA39952D5F876A00A677EC /* binge-queuer */,
-				BBBA39A62D5F876B00A677EC /* binge-queuerTests */,
-				BBBA39B02D5F876B00A677EC /* binge-queuerUITests */,
-				BBBA39942D5F876A00A677EC /* Products */,
+				BB30F36E2D5F8862007041ED /* binge-queuer */,
+				BB30F37F2D5F8863007041ED /* binge-queuerTests */,
+				BB30F3892D5F8863007041ED /* binge-queuerUITests */,
+				BB30F36D2D5F8862007041ED /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BBBA39942D5F876A00A677EC /* Products */ = {
+		BB30F36D2D5F8862007041ED /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BBBA39932D5F876A00A677EC /* binge-queuer.app */,
-				BBBA39A32D5F876B00A677EC /* binge-queuerTests.xctest */,
-				BBBA39AD2D5F876B00A677EC /* binge-queuerUITests.xctest */,
+				BB30F36C2D5F8862007041ED /* binge-queuer.app */,
+				BB30F37C2D5F8863007041ED /* binge-queuerTests.xctest */,
+				BB30F3862D5F8863007041ED /* binge-queuerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BBBA39922D5F876A00A677EC /* binge-queuer */ = {
+		BB30F36B2D5F8862007041ED /* binge-queuer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BBBA39B72D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuer" */;
+			buildConfigurationList = BB30F3902D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuer" */;
 			buildPhases = (
-				BBBA398F2D5F876A00A677EC /* Sources */,
-				BBBA39902D5F876A00A677EC /* Frameworks */,
-				BBBA39912D5F876A00A677EC /* Resources */,
+				BB30F3682D5F8862007041ED /* Sources */,
+				BB30F3692D5F8862007041ED /* Frameworks */,
+				BB30F36A2D5F8862007041ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				BBBA39952D5F876A00A677EC /* binge-queuer */,
+				BB30F36E2D5F8862007041ED /* binge-queuer */,
 			);
 			name = "binge-queuer";
 			packageProductDependencies = (
 			);
 			productName = "binge-queuer";
-			productReference = BBBA39932D5F876A00A677EC /* binge-queuer.app */;
+			productReference = BB30F36C2D5F8862007041ED /* binge-queuer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BBBA39A22D5F876B00A677EC /* binge-queuerTests */ = {
+		BB30F37B2D5F8863007041ED /* binge-queuerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BBBA39BA2D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuerTests" */;
+			buildConfigurationList = BB30F3932D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuerTests" */;
 			buildPhases = (
-				BBBA399F2D5F876B00A677EC /* Sources */,
-				BBBA39A02D5F876B00A677EC /* Frameworks */,
-				BBBA39A12D5F876B00A677EC /* Resources */,
+				BB30F3782D5F8863007041ED /* Sources */,
+				BB30F3792D5F8863007041ED /* Frameworks */,
+				BB30F37A2D5F8863007041ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BBBA39A52D5F876B00A677EC /* PBXTargetDependency */,
+				BB30F37E2D5F8863007041ED /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				BBBA39A62D5F876B00A677EC /* binge-queuerTests */,
+				BB30F37F2D5F8863007041ED /* binge-queuerTests */,
 			);
 			name = "binge-queuerTests";
 			packageProductDependencies = (
 			);
 			productName = "binge-queuerTests";
-			productReference = BBBA39A32D5F876B00A677EC /* binge-queuerTests.xctest */;
+			productReference = BB30F37C2D5F8863007041ED /* binge-queuerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BBBA39AC2D5F876B00A677EC /* binge-queuerUITests */ = {
+		BB30F3852D5F8863007041ED /* binge-queuerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BBBA39BD2D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuerUITests" */;
+			buildConfigurationList = BB30F3962D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuerUITests" */;
 			buildPhases = (
-				BBBA39A92D5F876B00A677EC /* Sources */,
-				BBBA39AA2D5F876B00A677EC /* Frameworks */,
-				BBBA39AB2D5F876B00A677EC /* Resources */,
+				BB30F3822D5F8863007041ED /* Sources */,
+				BB30F3832D5F8863007041ED /* Frameworks */,
+				BB30F3842D5F8863007041ED /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				BBBA39AF2D5F876B00A677EC /* PBXTargetDependency */,
+				BB30F3882D5F8863007041ED /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				BBBA39B02D5F876B00A677EC /* binge-queuerUITests */,
+				BB30F3892D5F8863007041ED /* binge-queuerUITests */,
 			);
 			name = "binge-queuerUITests";
 			packageProductDependencies = (
 			);
 			productName = "binge-queuerUITests";
-			productReference = BBBA39AD2D5F876B00A677EC /* binge-queuerUITests.xctest */;
+			productReference = BB30F3862D5F8863007041ED /* binge-queuerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BBBA398B2D5F876A00A677EC /* Project object */ = {
+		BB30F3642D5F8862007041ED /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					BBBA39922D5F876A00A677EC = {
+					BB30F36B2D5F8862007041ED = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					BBBA39A22D5F876B00A677EC = {
+					BB30F37B2D5F8863007041ED = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = BBBA39922D5F876A00A677EC;
+						TestTargetID = BB30F36B2D5F8862007041ED;
 					};
-					BBBA39AC2D5F876B00A677EC = {
+					BB30F3852D5F8863007041ED = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = BBBA39922D5F876A00A677EC;
+						TestTargetID = BB30F36B2D5F8862007041ED;
 					};
 				};
 			};
-			buildConfigurationList = BBBA398E2D5F876A00A677EC /* Build configuration list for PBXProject "binge-queuer" */;
+			buildConfigurationList = BB30F3672D5F8862007041ED /* Build configuration list for PBXProject "binge-queuer" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = BBBA398A2D5F876A00A677EC;
+			mainGroup = BB30F3632D5F8862007041ED;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = BBBA39942D5F876A00A677EC /* Products */;
+			productRefGroup = BB30F36D2D5F8862007041ED /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BBBA39922D5F876A00A677EC /* binge-queuer */,
-				BBBA39A22D5F876B00A677EC /* binge-queuerTests */,
-				BBBA39AC2D5F876B00A677EC /* binge-queuerUITests */,
+				BB30F36B2D5F8862007041ED /* binge-queuer */,
+				BB30F37B2D5F8863007041ED /* binge-queuerTests */,
+				BB30F3852D5F8863007041ED /* binge-queuerUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BBBA39912D5F876A00A677EC /* Resources */ = {
+		BB30F36A2D5F8862007041ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA39A12D5F876B00A677EC /* Resources */ = {
+		BB30F37A2D5F8863007041ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA39AB2D5F876B00A677EC /* Resources */ = {
+		BB30F3842D5F8863007041ED /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BBBA398F2D5F876A00A677EC /* Sources */ = {
+		BB30F3682D5F8862007041ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA399F2D5F876B00A677EC /* Sources */ = {
+		BB30F3782D5F8863007041ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBBA39A92D5F876B00A677EC /* Sources */ = {
+		BB30F3822D5F8863007041ED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		BBBA39A52D5F876B00A677EC /* PBXTargetDependency */ = {
+		BB30F37E2D5F8863007041ED /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BBBA39922D5F876A00A677EC /* binge-queuer */;
-			targetProxy = BBBA39A42D5F876B00A677EC /* PBXContainerItemProxy */;
+			target = BB30F36B2D5F8862007041ED /* binge-queuer */;
+			targetProxy = BB30F37D2D5F8863007041ED /* PBXContainerItemProxy */;
 		};
-		BBBA39AF2D5F876B00A677EC /* PBXTargetDependency */ = {
+		BB30F3882D5F8863007041ED /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BBBA39922D5F876A00A677EC /* binge-queuer */;
-			targetProxy = BBBA39AE2D5F876B00A677EC /* PBXContainerItemProxy */;
+			target = BB30F36B2D5F8862007041ED /* binge-queuer */;
+			targetProxy = BB30F3872D5F8863007041ED /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		BBBA39B52D5F876B00A677EC /* Debug */ = {
+		BB30F38E2D5F8863007041ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		BBBA39B62D5F876B00A677EC /* Release */ = {
+		BB30F38F2D5F8863007041ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		BBBA39B82D5F876B00A677EC /* Debug */ = {
+		BB30F3912D5F8863007041ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -416,7 +416,7 @@
 			};
 			name = Debug;
 		};
-		BBBA39B92D5F876B00A677EC /* Release */ = {
+		BB30F3922D5F8863007041ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -444,7 +444,7 @@
 			};
 			name = Release;
 		};
-		BBBA39BB2D5F876B00A677EC /* Debug */ = {
+		BB30F3942D5F8863007041ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -462,7 +462,7 @@
 			};
 			name = Debug;
 		};
-		BBBA39BC2D5F876B00A677EC /* Release */ = {
+		BB30F3952D5F8863007041ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -480,7 +480,7 @@
 			};
 			name = Release;
 		};
-		BBBA39BE2D5F876B00A677EC /* Debug */ = {
+		BB30F3972D5F8863007041ED /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -496,7 +496,7 @@
 			};
 			name = Debug;
 		};
-		BBBA39BF2D5F876B00A677EC /* Release */ = {
+		BB30F3982D5F8863007041ED /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -515,43 +515,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BBBA398E2D5F876A00A677EC /* Build configuration list for PBXProject "binge-queuer" */ = {
+		BB30F3672D5F8862007041ED /* Build configuration list for PBXProject "binge-queuer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBBA39B52D5F876B00A677EC /* Debug */,
-				BBBA39B62D5F876B00A677EC /* Release */,
+				BB30F38E2D5F8863007041ED /* Debug */,
+				BB30F38F2D5F8863007041ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BBBA39B72D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuer" */ = {
+		BB30F3902D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBBA39B82D5F876B00A677EC /* Debug */,
-				BBBA39B92D5F876B00A677EC /* Release */,
+				BB30F3912D5F8863007041ED /* Debug */,
+				BB30F3922D5F8863007041ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BBBA39BA2D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuerTests" */ = {
+		BB30F3932D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBBA39BB2D5F876B00A677EC /* Debug */,
-				BBBA39BC2D5F876B00A677EC /* Release */,
+				BB30F3942D5F8863007041ED /* Debug */,
+				BB30F3952D5F8863007041ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BBBA39BD2D5F876B00A677EC /* Build configuration list for PBXNativeTarget "binge-queuerUITests" */ = {
+		BB30F3962D5F8863007041ED /* Build configuration list for PBXNativeTarget "binge-queuerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBBA39BE2D5F876B00A677EC /* Debug */,
-				BBBA39BF2D5F876B00A677EC /* Release */,
+				BB30F3972D5F8863007041ED /* Debug */,
+				BB30F3982D5F8863007041ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BBBA398B2D5F876A00A677EC /* Project object */;
+	rootObject = BB30F3642D5F8862007041ED /* Project object */;
 }
